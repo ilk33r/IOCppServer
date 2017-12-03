@@ -33,3 +33,4 @@
 
 # XCode Files
 DerivedData
+*.xcuserdatad
