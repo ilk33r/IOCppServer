@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# XCode Files
+DerivedData
